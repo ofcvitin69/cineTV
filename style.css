@@ -1,0 +1,10 @@
+body{
+   color: azure;
+   background: black;
+   margin: 0px;
+}
+
+
+header{
+    border-bottom: solid 2px  rgb(192, 42, 42)
+}
