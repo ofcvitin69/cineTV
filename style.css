@@ -14,13 +14,13 @@ header {
 }
 
 section {
-    background: rgb(2, 124, 194);
+    background: rgb(97, 0, 0);
     padding-bottom: 80px;
     padding-top: 80px;
 }
 
 .chamada {
-    background: rgb(2, 124, 194);
+    background: rgb(0, 0, 0);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
